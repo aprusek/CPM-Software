@@ -2,6 +2,8 @@
 
 Humoungous CP/M Software Collection - http://cpmarchives.classiccmp.org/
 
+Retroarcrhive - http://www.retroarchive.org/
+
 Commercial CP/M Software Archive - http://www.retroarchive.org/cpm/
 
 CPM Compilers - https://github.com/davidly/cpm_compilers
@@ -11,6 +13,8 @@ Unofficial CP/M Website - http://www.cpm.z80.de/
 Gaby's Homepage for CP/M and Computer History - http://www.gaby.de/edownl.htm
 
 Steve Kemp Collection - https://github.com/skx/cpm-dist
+
+Dom Maslin Archive - http://www.retroarchive.org/maslin/
 
 RUNCPM - https://github.com/MockbaTheBorg/RunCPM
 
