@@ -10,4 +10,4 @@ Unofficial CP/M Website - http://www.cpm.z80.de/
 
 Gaby's Homepage for CP/M and Computer History - http://www.gaby.de/edownl.htm
 
-Ste=ve Kemp Collection - https://github.com/skx/cpm-dist
+Steve Kemp Collection - https://github.com/skx/cpm-dist
