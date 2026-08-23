@@ -1,4 +1,4 @@
-# CPM-Software
+# CPM-Software Collections List
 
 Humoungous CP/M Software Collection - http://cpmarchives.classiccmp.org/
 
