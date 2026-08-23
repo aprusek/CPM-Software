@@ -1,8 +1,6 @@
 # CPM-Software
 
-Houmoungous CP/M Software Collection - http://cpmarchives.classiccmp.org/
-
-http://www.retroarchive.org/cpm/
+Humoungous CP/M Software Collection - http://cpmarchives.classiccmp.org/
 
 Commercial CP/M Software Archive - http://www.retroarchive.org/cpm/
 
